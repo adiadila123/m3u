@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:60,XITE Rock On
+https://dri82941jql2y.cloudfront.net/playlist.m3u8
+#EXTINF:0,Rock FM TV
+#EXTGRP:Music
+https://tv.broadcasting.ro/memfs/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:0,ROCK ON
+#EXTGRP:Music
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&amp;
+#EXTINF:0,Rock 80-90
+#EXTGRP:Music
+http://pvserver.link:8080/play/3xSy4-X1ibpS9oXRWrUWbxnYhL224s5FLo75fwj3GYA/ts
+#EXTINF:0,TV Jazz and Beyond
+#EXTGRP:Music
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&amp;
+#EXTINF:0,VEVO 70\’S FHD
+#EXTGRP:unsorted
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/192bbb4ecd484e389101d109ac61cf5d/live.m3u8
+#EXTINF:0,VEVO 80\’S FHD
+#EXTGRP:unsorted
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/a65cf7ba93664eb083d95152fe717270/live_6.m3u8
+#EXTINF:30, RCKTV * | CL
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,VEVO Country FHD
+#EXTGRP:unsorted
+https://d330e7137fb7fe851354fad8b25596e7.iad.linear.zype.com/out/v1/f66d9d3fb088443baf9abae38ae01fef/live_8.m3u8
